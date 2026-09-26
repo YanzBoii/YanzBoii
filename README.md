@@ -1,4 +1,4 @@
-## Salut, moi c'est Yanz
+## Salut, moi c'est YanzBoii
 
 Je développe des outils que j'utilise au quotidien — des trucs simples,
 rapides, qui règlent un problème précis.
