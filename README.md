@@ -5,6 +5,13 @@ rapides, qui règlent un problème précis.
 
 ### Projets
 
+**[TrackBoii](https://github.com/YanzBoii/trackboii)** — Suivi calorique en
+photo. Tu prends ton plat, l'IA estime les calories et les macros ; les repas
+habituels s'ajoutent en un tap. Application installable sur téléphone et PC,
+[à essayer ici](https://trackboii.netlify.app).
+
+`React` · `Firebase` · `Gemini API` · `Netlify`
+
 **[YanzVoice](https://github.com/YanzBoii/YanzVoice)** — Dictée vocale pour
 Windows. Tu parles, le texte se colle tout seul dans l'application active.
 Transcription par Groq Whisper, audio encodé en Opus pour tenir sur une
