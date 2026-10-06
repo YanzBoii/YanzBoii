@@ -5,6 +5,14 @@ rapides, qui règlent un problème précis.
 
 ### Projets
 
+**[FitnessBoii](https://github.com/YanzBoii/fitnessboii)** — Suivi de
+musculation. Tes programmes calés sur tes jours d'entraînement, une séance
+guidée un exercice à la fois (dernière perf pré-remplie, minuteur de repos),
+et ta progression : records, série de semaines, présence à la salle et photo
+de la semaine. Installable sur téléphone et PC, utilisable hors ligne à la salle.
+
+`React` · `TypeScript` · `Firebase` · `Netlify`
+
 **[TrackBoii](https://github.com/YanzBoii/trackboii)** — Suivi calorique en
 photo. Tu prends ton plat, l'IA estime les calories et les macros ; les repas
 habituels s'ajoutent en un tap. Application installable sur téléphone et PC,
