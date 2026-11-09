@@ -1,6 +1,6 @@
-## Salut, moi c'est YanzBoii
+## Salut, moi c'est Yanis
 
-Je développe des outils que j'utilise au quotidien — des trucs simples,
+Je développe des outils que j'utilise au quotidien - des trucs simples,
 rapides, qui règlent un problème précis.
 
 ### Projets
@@ -31,9 +31,3 @@ connexion faible.
 
 Des interfaces sobres, du code qui va droit au but, et des applications
 qui démarrent vite.
-
-<!--
-  Personnalise librement : ajoute tes projets, tes centres d'intérêt,
-  un moyen de te contacter. Ce fichier s'affiche en haut de ta page
-  github.com/YanzBoii
--->
